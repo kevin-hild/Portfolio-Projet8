@@ -29,7 +29,7 @@ function Projects() {
               description="Développement de la page d'accueil d'une agence de voyage en HTML et CSS pour offrir aux utilisateurs une plateforme intuitive.
               Ce site permet de rechercher facilement des hébergements et des activités par ville, avec une mise en page attrayante et optimisée pour une expérience utilisateur fluide et agréable."
               ghLink="https://github.com/kevin-hild/OCR-Projet-2-Booki"
-              // demoLink="https://chatify-49.web.app/"
+              demoLink="https://kh-booki.netlify.app/"
             />
           </Col>
 
